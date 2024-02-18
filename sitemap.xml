@@ -2,59 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Heemo-2000/projects/endless-runner/</loc>
+    <loc>/projects/endless-runner/</loc>
     <lastmod>2019-02-20T03:52:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://Heemo-2000/</loc>
+    <loc>/</loc>
     <lastmod>2019-02-20T03:52:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://Heemo-2000/project-types/personal/</loc>
+    <loc>/project-types/personal/</loc>
     <lastmod>2019-02-20T03:52:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://Heemo-2000/project-types/</loc>
+    <loc>/project-types/</loc>
     <lastmod>2019-02-20T03:52:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://Heemo-2000/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>2019-02-20T03:52:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://Heemo-2000/projects/real-tic-tac-toe/</loc>
+    <loc>/projects/real-tic-tac-toe/</loc>
     <lastmod>2019-02-20T03:52:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://Heemo-2000/projects/side-scrolling-shooting/</loc>
+    <loc>/projects/side-scrolling-shooting/</loc>
     <lastmod>2019-02-20T03:52:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://Heemo-2000/projects/space-shooter/</loc>
+    <loc>/projects/space-shooter/</loc>
     <lastmod>2019-02-20T03:52:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://Heemo-2000/about/</loc>
+    <loc>/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://Heemo-2000/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://Heemo-2000/series/</loc>
+    <loc>/series/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://Heemo-2000/tags/</loc>
+    <loc>/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
